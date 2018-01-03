@@ -1,6 +1,6 @@
 # Unity Emissive Lighting
 
-This Unity project shows some example scenes of how to use emissive lighting with real time global illumination.
+This Unity project shows some example scenes of emissive lighting with realtime global illumination.
 
 Unity Version
 --------
